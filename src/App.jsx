@@ -8,10 +8,10 @@ function App() {
 
   return (
     <div>
-      <header />
-      <about_section />
-      <blog_section />
-      <footer />
+      <Header />
+      <About_section />
+      <Blog_section />
+      <Footer />
     </div>
   )
 }
